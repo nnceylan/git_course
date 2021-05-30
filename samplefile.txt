@@ -1,2 +1,6 @@
 sample file one
+<<<<<<< Updated upstream
 this is stash lecture, change in Main file
+=======
+this is stash lecture, change file 1
+>>>>>>> Stashed changes
